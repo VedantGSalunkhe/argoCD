@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: mymusicstats
-        image: vedaangss/my-web-ap:v2
+        image: vedaangss/my-web-app:v2
         ports:
         - containerPort: 80
